@@ -1,4 +1,8 @@
-# mzh的blog
-热爱coding的前端工程师一枚，记录前端开发学习工作中的坑坑洼洼。
+### 欢迎来到我的blog
+愿码农的键盘永不疲惫，代码永不出错，程序员的人生一帆风顺。
 
-语雀传送门：[https://www.yuque.com/mzh-note](https://www.yuque.com/mzh-note)
+[个人blog](https://www.mazhanghua.com)
+
+本站使用vitepress搭建，旨在记录前端相关的内容，有技术教程，有坑，有案例，还有未来可期。
+
+如果你有任何关于前端的问题，需要技术上支持，软件应用开发，项目合作，都可联系我。
